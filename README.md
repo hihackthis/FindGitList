@@ -16,10 +16,10 @@ Este programa serve para procurar o nome e ou descrição de uma ferramenta publ
 1. Crie um arquivo contendo URLs, um abaixo do outro, do GitHub
 2. Desta forma:
 
-GitHub_URL1\
-GitHub_URL2\
-GitHub_URL3\
-GitHub_URL4
+        GitHub_URL1
+        GitHub_URL2
+        GitHub_URL3
+        GitHub_URL4
 
 3. No Terminal execute o comando:
 

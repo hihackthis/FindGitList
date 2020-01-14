@@ -1,4 +1,4 @@
-# Find-Tool-GitHub
+# Find-GitHub-List
 
 
 ### **Description**
@@ -33,9 +33,9 @@ This program is for looking up the name and description of a tool published here
 
     > python3 findGit.py
 
-4. Choose option 1 to search **ENTER**
-5. Type the file path **ENTER**
-6. Enter a word to search **ENTER**
+4. Choose option 1 to search <**ENTER**>
+5. Type the file path <**ENTER**>
+6. Enter a word to search <**ENTER**>
 
 ![](https://live.staticflickr.com/65535/49381495197_22ee314c39_b.jpg)
 
@@ -52,4 +52,4 @@ Developed and testing on Debian with a black wallpaper, see the image above.
 
 ###### [Colorama Homepage](https://pypi.org/project/colorama/ "Colorama Homepage")
 
-I'm not a professional programmer, I'm Python enthusiast and I'm open-minded (and code hahaha) to receive any feedback.
+I'm not a professional programmer, I'm Python enthusiast and I'm open-minded (and code :trollface:) to receive any feedback.

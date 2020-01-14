@@ -1,0 +1,10 @@
+https://github.com/YasserGersy/cazador_unr
+https://github.com/Damian89/extended-xss-search
+https://github.com/Damian89/extended-ssrf-search
+https://github.com/Damian89/xssfinder
+https://github.com/Damian89/commonCrawlParser
+https://github.com/The-Cracker-Technology/ANDRAX-Mobile-Pentest/
+https://github.com/googleinurl/SCANNER-INURLBR
+https://github.com/projectzeroindia/CVE-2019-11510
+https://github.com/zerosum0x0/koadic
+https://github.com/stevenvachon/broken-link-checker

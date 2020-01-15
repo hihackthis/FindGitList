@@ -52,4 +52,4 @@ Developed and testing on Debian with a black wallpaper, see the image above.
 
 ###### [Colorama Homepage](https://pypi.org/project/colorama/ "Colorama Homepage")
 
-I'm not a professional programmer, I'm Python enthusiast and I'm open-minded (and code :trollface:) to receive any feedback.
+I'm not a professional programmer, I'm Python enthusiast and I'm open-minded (and code too :trollface:) to receive any feedback.

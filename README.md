@@ -41,7 +41,7 @@ This program is for looking up the name and description of a tool published here
 
 PS: If the file is located in the same folder as the program, then just type the file name.
 
-### **Purpose**
+### **Motivation**
 ---
 
 I created this tool in Python 3 to solve a personal problem: facilitate my searches in My Favorites.

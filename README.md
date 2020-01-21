@@ -17,6 +17,7 @@ This program is for looking up the name and description of a tool published here
 - [x] lxml (To offer support for XPath, RelaxNG, XML Schema etc)
 - [x] re (RegEx, or Regular Expression)
 - [x] requests (Dealing with HTTP requests)
+- [x] time (Manipulate time)
 
 ### **Run**
 ---

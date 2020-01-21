@@ -21,6 +21,7 @@
 
 import re
 import requests
+import time
 from lxml import html
 from colorama import Fore, Back, Style, init
 
@@ -71,6 +72,7 @@ def search():
                             pass
                     elif key_word.lower() not in low:
                         pass
+                    time.sleep(1)
         elif len(ver_word) == 0 or len(ver_word) > 1:
             print()
             print(Fore.RED + Style.BRIGHT + "Please, enter only one word!" + Style.RESET_ALL)

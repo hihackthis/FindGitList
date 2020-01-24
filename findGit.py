@@ -102,7 +102,7 @@ def menu():
     print(r"| | | | | | | (_| | |_\ \ | |_ ")
     print(r"|_| |_|_| |_|\__,_|\____/_|\__|" + Style.RESET_ALL)
     print()
-    print(Fore.CYAN + Style.BRIGHT + "-by Diego Moicano *@hihacktis -- " + Style.RESET_ALL)
+    print(Fore.CYAN + Style.BRIGHT + "-by Diego Moicano *@hihackthis - " + Style.RESET_ALL)
     print()
     print(Fore.MAGENTA + Style.BRIGHT + "################################" + Style.RESET_ALL)
     print(Style.RESET_ALL)
